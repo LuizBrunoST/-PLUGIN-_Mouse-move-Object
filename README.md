@@ -57,7 +57,7 @@ document.onmouseup = new Function("isdrag=false")
 # LOG
 
 **02/10/2021**
-> add index.html
+> add index.html<br>
 > add cubo.png
 
 
